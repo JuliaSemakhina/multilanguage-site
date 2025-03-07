@@ -1,0 +1,59 @@
+{
+  "title": " All your files in one secure location, accessible anywhere.",
+  "intro": "Fylo stores all your most important files in one secure location. Access them wherever you need, share and collaborate with friends family, and co-workers.",
+  "label": "Select another language!",
+  "about": "About",
+  "home": "Home",
+  "signin": "Sign In",
+  "items": [
+    {
+      "id": 1,
+      "key": "welcome_message"
+    },
+    {
+      "id": 2,
+      "key": "about_us"
+    },
+    {
+      "id": 3,
+      "key": "contact"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Acees your files, anywhere",
+      "text": "The  ability to use a smartphone, tablet, or computer to access your account means your files follow you everywhere",
+      "url": "../public/icon-access-anywhere.svg"
+    },
+    {
+      "id": 2,
+      "title": "Security you can trust",
+      "text": "2-factor authentication and user-controlled encryption are just a couple of the security features we allow to help secure your files.",
+      "url": "../public/icon-security.svg"
+    },
+    {
+      "id": 3,
+      "title": "Real-time collaboration",
+      "text": "Securely share files and folders with friends, family and colleagues for live collaboration. No email attachments required.",
+      "url": "../public/icon-collaboration.svg"
+    },
+    {
+      "id": 4,
+      "title": "Store any type of file",
+      "text": "Whether you're sharing holidays photos or work documents, Fylo has you covered allowing for all file types to be securely stored and shared.",
+      "url": "../public/icon-any-file.svg"
+    }
+  ],
+  "quote": "Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.",
+  "button1": "Get Started",
+  "header1": "Stay productive,",
+  "header2": "wherever you are",
+  "text1": "Never let location be an issue when accessing your files. Fylo has you covered for all of your file storage needs.",
+  "text2": "Securely share files and folders with friends, family and colleagues for live collaboration. No email attachments required.",
+  "link": "See how Fylo works",
+  "input-title": "Get early access today",
+  "input-text": "It only takes a minute to sign up and our free starter tier is extremely generous. If you have any questions, our support team would be happy to help you.",
+  "button2": "Get Started For Free",
+  "error": "Plese enter an e-mail"
+}

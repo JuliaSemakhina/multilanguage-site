@@ -1,0 +1,59 @@
+{
+  "title": "Aplicación en varios idiomas",
+  "intro": "Fylo almacena todos tus archivos más importantes en una ubicación segura. Accede a ellos donde los necesites, comparte y colabora con amigos, familia y compañeros de trabajo.",
+  "label": "Selecciona otro lenguaje!",
+  "about": "Sobre mí",
+  "signin": "Iniciar Sesión",
+  "home": "Inicio",
+  "items": [
+    {
+      "id": 1,
+      "key": "welcome_message"
+    },
+    {
+      "id": 2,
+      "key": "about_us"
+    },
+    {
+      "id": 3,
+      "key": "contact"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Acees i tuoi file, ovunque",
+      "text": "La possibilità di utilizzare uno smartphone, un tablet o un computer per accedere al tuo account significa che i tuoi file ti seguono ovunque.",
+      "url": "../public/icon-access-anywhere.svg"
+    },
+    {
+      "id": 2,
+      "title": "Sicurezza di cui ti puoi fidare",
+      "text": "Autenticazione a 2 fattori e crittografia controllata dall'utente sono solo un paio delle funzionalità di sicurezza che consentiamo di proteggere i tuoi file.",
+      "url": "../public/icon-security.svg"
+    },
+    {
+      "id": 3,
+      "title": "Collaborazione in tempo reale",
+      "text": "Securely share files and folders with friends, family and colleagues for live collaboration. No email attachments required.",
+      "url": "../public/icon-collaboration.svg"
+    },
+    {
+      "id": 4,
+      "title": "Memorizza qualsiasi tipo di file",
+      "text": "Condividi in modo sicuro file e cartelle con amici, familiari e colleghi per una collaborazione dal vivo. Nessun allegato email richiesto.",
+      "url": "../public/icon-any-file.svg"
+    }
+  ],
+  "quote": "Fylo ha mejorado la productividad de nuestro equipo en un orden de magnitud. Desde que hicimos el cambio, nuestro equipo se ha convertido en una máquina de colaboración bien engrasada.",
+  "button1": "Comience",
+  "header1": "Mantente productivo,",
+  "header2": "donde quiera que estés",
+  "text1": "Nunca dejes que la ubicación sea un problema al acceder a tus archivos. Fylo lo tiene cubierto para todas sus necesidades de almacenamiento de archivos.",
+  "text2": "Comparta archivos y carpetas de forma segura con amigos, familiares y colegas para colaborar en vivo. No se requieren archivos adjuntos de correo electrónico.",
+  "link": "Vea cómo funciona Fylo",
+  "input-title": "Obtenga acceso anticipado hoy",
+  "input-text": "Solo toma un minuto registrarse y nuestro nivel inicial gratuito es extremadamente generoso. Si tiene alguna pregunta, nuestro equipo de soporte estará encantado de ayudarle.",
+  "button2": "Empieza gratis",
+  "error": "Por favor ingrese un correo electrónico"
+}

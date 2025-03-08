@@ -24,25 +24,25 @@
       "id": 1,
       "title": "Acees i tuoi file, ovunque",
       "text": "La possibilità di utilizzare uno smartphone, un tablet o un computer per accedere al tuo account significa che i tuoi file ti seguono ovunque.",
-      "url": "../public/icon-access-anywhere.svg"
+      "url": "icon-access-anywhere.svg"
     },
     {
       "id": 2,
       "title": "Sicurezza di cui ti puoi fidare",
       "text": "Autenticazione a 2 fattori e crittografia controllata dall'utente sono solo un paio delle funzionalità di sicurezza che consentiamo di proteggere i tuoi file.",
-      "url": "../public/icon-security.svg"
+      "url": "icon-security.svg"
     },
     {
       "id": 3,
       "title": "Collaborazione in tempo reale",
       "text": "Securely share files and folders with friends, family and colleagues for live collaboration. No email attachments required.",
-      "url": "../public/icon-collaboration.svg"
+      "url": "icon-collaboration.svg"
     },
     {
       "id": 4,
       "title": "Memorizza qualsiasi tipo di file",
       "text": "Condividi in modo sicuro file e cartelle con amici, familiari e colleghi per una collaborazione dal vivo. Nessun allegato email richiesto.",
-      "url": "../public/icon-any-file.svg"
+      "url": "icon-any-file.svg"
     }
   ],
   "quote": "Fylo ha mejorado la productividad de nuestro equipo en un orden de magnitud. Desde que hicimos el cambio, nuestro equipo se ha convertido en una máquina de colaboración bien engrasada.",
